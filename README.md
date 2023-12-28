@@ -1,10 +1,10 @@
 
 # Demo Notebook
 
-## How to get the non-photo images from a document
+## How to get the non-photo images from a PDF document
 
 The purpose of this notebook is to demonstrate how to save embedded images  
-that are not photos but line drawings and tables, to disk and give them  
+that are not photos but line drawings and tables to disk and give them  
 a meaningful name to help with retrieval.  
 
 These types of images are not identified as images when using pypdf but can be found using OpenCV.  
